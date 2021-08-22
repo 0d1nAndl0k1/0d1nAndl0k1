@@ -1,7 +1,7 @@
 ### Hi there 👋
   I’m currently working on Discord bot, and a webstie 
 
-##join our discord sever
+## join our discord sever
   https://discord.gg/88JYyjHMkM
   
 <!--
