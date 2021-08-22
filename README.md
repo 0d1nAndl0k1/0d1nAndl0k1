@@ -1,21 +1,9 @@
 ### Hi there 👋
-  I’m currently working on Discord bot, and a webstie 
+  0d1n is currently working on a discord bot and website for us L0k1 is currently working on a booru downloader
+ -How to reach us:0d1nandl0k1hack3rs@gmail.com or in our discord sever
+ -ask us anything in the sever 
+ -can do custom stuff
+ -L0k1 is looking for help with realbooru downloader
 
 ## join our discord sever
   https://discord.gg/88JYyjHMkM
-  
-<!--
-**0d1nAndl0k1/0d1nAndl0k1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 
-  I’m currently working on Discord bot, and a webstie ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
