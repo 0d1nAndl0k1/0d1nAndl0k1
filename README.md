@@ -1,6 +1,9 @@
 ### Hi there 👋
   I’m currently working on Discord bot, and a webstie 
 
+##join our discord sever
+  https://discord.gg/88JYyjHMkM
+  
 <!--
 **0d1nAndl0k1/0d1nAndl0k1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
