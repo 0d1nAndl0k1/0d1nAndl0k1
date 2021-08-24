@@ -7,8 +7,6 @@
  -ask us anything in the sever 
  
  -can do custom stuff
- 
- -L0k1 is looking for help with realbooru downloader
 
 ## join our discord sever
 
